@@ -1,3 +1,4 @@
 # Aluno
 
-* Gustavo Mantellatto Elias        RA: _169366_
+* **Nome:** Gustavo Mantellatto Elias        
+* **RA:** _169366_
