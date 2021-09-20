@@ -1,6 +1,10 @@
-# SQL no NHANES
-*Lab de Bancos de Dados em 10/09/2021*
+# SQL Avançado - NHANES e Taxonomia
 
-Entre no ambiente Lab2Learn (https://github.com/santanche/lab2learn) e faça as tarefas especificadas no notebook `lab04-sql-advanced.ipynb`.
 
-Veja template para submissão desta tarefa na pasta `/templates/2021/lab04`.
+# Aluno
+
+- `RA: 169366`: `Gustavo Mantellatto Elias`
+
+## Tarefa sobre consultas SQL no Nhanes
+
+O notebook do laboratório pode ser encontrado [aqui](https://github.com/gustavopir/MC536/blob/main/lab04/notebook/lab04-sql-advanced.ipynb).
