@@ -1,11 +1,3 @@
-# Modelo para Apresentação do Lab05 - Marcadores e Taxonomia em Cypher
-
-Estrutura de pastas:
-
-~~~
-├── README.md  <- arquivo apresentando a tarefa
-~~~
-
 # Aluno
 * `169366`: `<Gustavo Mantellatto Elias>`
 
