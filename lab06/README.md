@@ -24,7 +24,9 @@ README
 ## Perguntas de pesquisa/análises
 
 > Qual o partido elegeu mais representantes para cada cargo político ao longo da história?
+
 > Qual a média de idade dos presidentes/governadores eleitos ao longo da história?
+
 > Qual a proporção de eleitoras mulheres ao longo dos anos nas eleições brasileiras?
 
 ## Trabalhos relacionados
